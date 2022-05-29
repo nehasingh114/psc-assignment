@@ -1,0 +1,40 @@
+#main img {
+    height: 720px;
+    width: 100%;
+    position: relative;
+}
+
+#results {
+    height: 200px;
+    width: 530px;
+    border-top: none;
+    overflow: auto;
+    color: white;
+
+}
+
+#cont {
+    margin-left: 500px;
+    margin-top: -450px;
+    position: absolute;
+
+}
+
+#cont>div>img {
+    height: 100px;
+    width: 200px;
+    margin-left: 150px;
+
+}
+
+#query {
+    margin-top: 30px;
+    height: 60px;
+    width: 500px;
+    border: 0px solid white;
+    border-radius: 20px;
+    background-color: rgb(182, 175, 175);
+    color: white;
+    padding-left: 30px;
+
+}
